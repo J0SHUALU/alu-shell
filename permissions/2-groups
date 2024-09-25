@@ -1,6 +1,2 @@
 #!/bin/bash
-# Script to print all the groups the current user is part of
-
-# Get the current user's groups and print them
-groups
-
+# Script to print all the groups the current user is part of,Get the current user's groups and print them groups
