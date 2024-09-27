@@ -1,0 +1,19 @@
+total 68
+-rw-r--r-- 1 j0shu4 j0shu4   12 Sep 26 16:56 * \'"Best School"\'*$?*****:)
+drwxr-xr-x 2 j0shu4 j0shu4 4096 Sep 27 14:01 .
+drwxr-xr-x 6 j0shu4 j0shu4 4096 Sep 26 12:27 ..
+-rwxr-xr-x 1 j0shu4 j0shu4   32 Sep 26 12:30 0-hello_world
+-rwxr-xr-x 1 j0shu4 j0shu4   28 Sep 26 12:40 1-confused_smiley
+-rwxr-xr-x 1 j0shu4 j0shu4   28 Sep 26 12:45 2-hellofile
+-rwxr-xr-x 1 j0shu4 j0shu4   39 Sep 26 12:48 3-twofiles
+-rwxr-xr-x 1 j0shu4 j0shu4   29 Sep 26 12:52 4-lastlines
+-rwxr-xr-x 1 j0shu4 j0shu4   29 Sep 26 12:56 5-firstlines
+-rwxr-xr-x 1 j0shu4 j0shu4   36 Sep 26 16:15 6-third_line
+-rwxr-xr-x 1 j0shu4 j0shu4   87 Sep 26 17:26 7-file
+-rwxr-xr-x 1 j0shu4 j0shu4   35 Sep 27 14:01 8-cwd_state
+-rw-r--r-- 1 j0shu4 j0shu4   17 Sep 26 12:29 README.md
+-rw-r--r-- 1 j0shu4 j0shu4   12 Sep 26 17:19 \*\'"Best School"\'$\?\*\*\*\*\*:)
+-rw-r--r-- 1 j0shu4 j0shu4   12 Sep 26 17:00 \*\\'"Best School"'\\*\$\?\*\*\*\*\*:)
+-rw-r--r-- 1 j0shu4 j0shu4   12 Sep 26 17:25 \*\\'"Best School"\'\\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 j0shu4 j0shu4   12 Sep 26 17:10 \*\\Best School\\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 j0shu4 j0shu4    0 Sep 27 14:01 ls_cwd_content
