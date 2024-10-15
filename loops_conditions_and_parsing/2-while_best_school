@@ -1,5 +1,7 @@
-#!/usr/bin/env bash
-# This script uses a for loop to print the sting "Best School" 10 times
-for i in $(ls); do
-    echo $(echo $i | cut -d "-" -f 2-)
+#!/usr/bin/env bash 
+# This script is displaying "Best School" ten times use the while loop 
+count=1 
+while [ $count -le 10 ]; do 
+	echo "Best School" 
+	count=$((count + 1)) 
 done
